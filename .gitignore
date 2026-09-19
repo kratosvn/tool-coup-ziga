@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+.scratch/
+.chrome-profile/
+__pycache__/
+*.pyc
+.venv/
+venv/
